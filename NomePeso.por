@@ -11,5 +11,5 @@ programa {
   leia(peso)
   escreva("digitar idade: ")
   leia (idade)
-  escreva("Sr." , nome, " seu peso é: ", peso, " ,e sua idade é: ", idade)
+  escreva("Sr." , nome, " seu peso Ã©: ", peso, " ,e sua idade Ã©: ", idade)
 }
